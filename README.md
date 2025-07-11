@@ -1,6 +1,6 @@
 # 👋 Seja bem-vindo(a) ao meu GitHub!
 
-## 🎯 Testes Automatizados e Manuais | K6 | Postman | Mocha/Chai | JMeter | APIs REST | Scrum & Kanban
+## 🎯 Testes Automatizados e Manuais | K6 | Postman | Cypress | Mocha/Chai | JMeter | APIs REST | Scrum & Kanban
 
 ---
 
@@ -16,7 +16,7 @@ Também tive contato com ferramentas e práticas de gestão de testes, como Jira
 ## 🛠️ Tecnologias e Ferramentas
 
 ✅ Metodologias Ágeis: Scrum, Kanban  
-🧪 Testes: Postman, Cypress, K6, JMeter, Mocha, Chai, Testes Manuais e Exploratório  
+🧪 Testes: Postman, Cypress, K6, JMeter, Mocha, Chai, Testes Manuais e Exploratórios  
 🌐 APIs: Swagger, API de Cinema, ServeRest  
 💻 IDE: Visual Studio Code  
 🛠️ Versionamento: Git e GitHub  
@@ -26,20 +26,34 @@ Também tive contato com ferramentas e práticas de gestão de testes, como Jira
 
 ---
 
-
 ## 📂 Projetos em Destaque
 
-🔸 [Treinamento – Testes e Automação QA](https://github.com/EliSidneypb/Treinamento)  
-Repositório com estudos, scripts de testes e automações desenvolvidas durante o programa de treinamento na área de QA.
+🔧 Em construção...
 
+---
+
+
+## 🧩 Badges de Ferramentas
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apache&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=white)
+![K6](https://img.shields.io/badge/K6-7D64FF?logo=k6&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
+
+---
+
+## 🤝 Colabore
+
+Sinta-se à vontade para explorar meus repositórios, abrir issues, contribuir ou trocar ideias sobre QA, testes e automação!
 
 ---
 
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/eli-santos-61a71031a/)
-- 📧 Email: *(adicione aqui se quiser deixar público)*
 
 ---
-
-⭐ Explore os repositórios, contribua ou entre em contato para trocas de conhecimento sobre QA e automação de testes!
