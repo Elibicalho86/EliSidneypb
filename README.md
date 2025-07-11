@@ -26,9 +26,12 @@ Também tive contato com ferramentas e práticas de gestão de testes, como Jira
 
 ---
 
+
 ## 📂 Projetos em Destaque
 
-🔧 Em construção...
+🔸 [Treinamento – Testes e Automação QA](https://github.com/EliSidneypb/Treinamento)  
+Repositório com estudos, scripts de testes e automações desenvolvidas durante o programa de treinamento na área de QA.
+
 
 ---
 
