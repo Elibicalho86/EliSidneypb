@@ -30,6 +30,9 @@ Também tive contato com ferramentas e práticas de gestão de testes, como Jira
 
 🔧 Em construção...
 
+
+
+https://youtu.be/0_yl1yZts1Y?si=fFRalA56YuOwcslo
 ---
 
 
