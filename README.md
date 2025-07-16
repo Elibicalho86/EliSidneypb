@@ -26,16 +26,16 @@ Também tive contato com ferramentas e práticas de gestão de testes, como Jira
 
 ---
 
-# 📁 Postman - Projetos e Demonstrações
+# 📁 Projetos e Demonstrações
 
-📁 **postman/**
-- **introducao/**
-  - [🔗 Apresentação do Canal](https://www.youtube.com/watch?v=eoCzjopsUoE)
-- **serverest/**
+📁 **Postman/**
+- **Introducao/**
+  - [🔗 Apresentação do projeto](https://www.youtube.com/watch?v=eoCzjopsUoE)
+- **Serverest/**
   - [🔗 Rota Login (Local)](https://www.youtube.com/watch?v=0_yl1yZts1Y)
   - [🔗 Usando baseUrl](https://www.youtube.com/watch?v=giwWS7E493I)
   - [🔗 Testes Variados - Rota Login](https://www.youtube.com/watch?v=E6Khs1VNomY)
-- **rotas/**
+- **Rotas/**
   - [🔗 Login e Usuários - Parte 1](https://www.youtube.com/watch?v=NNFEM741qw0)
   - [🔗 Login e Usuários - Parte 2](https://www.youtube.com/watch?v=RGbr76DwhVo)
 
