@@ -39,8 +39,8 @@ Também tive contato com ferramentas e práticas de gestão de testes, como Jira
 
 ### ▶️ Continuação...
 
-Novos vídeos serão adicionados conforme o avanço dos projetos.  
-Fique atento ao canal para acompanhar as atualizações e novas práticas aplicadas no ServeRest e em outras APIs!
+Novos vídeos serão adicionados.  
+Fique atento! 
 
 ---
 
