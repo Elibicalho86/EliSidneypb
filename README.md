@@ -28,11 +28,20 @@ Também tive contato com ferramentas e práticas de gestão de testes, como Jira
 
 ## 📂 Projetos em Destaque
 
-🔧 Em construção...
+🔗 [Apresentação do Canal](https://studio.youtube.com/video/eoCzjopsUoE/edit)  
+🔗 [ServeRest Local - Rota Login](https://studio.youtube.com/video/0_yl1yZts1Y/edit)  
+🔗 [Usando baseUrl](https://studio.youtube.com/video/giwWS7E493I/edit)  
+🔗 [Testes Variados na Rota Login](https://studio.youtube.com/video/E6Khs1VNomY/edit)  
+🔗 [Rota Login e Usuários - Parte 1](https://youtu.be/NNFEM741qw0)  
+🔗 [Rota Login e Usuários - Parte 2](https://youtu.be/RGbr76DwhVo)
 
+---
 
+### ▶️ Continuação...
 
-https://youtu.be/0_yl1yZts1Y?si=fFRalA56YuOwcslo
+Novos vídeos serão adicionados conforme o avanço dos projetos.  
+Fique atento ao canal para acompanhar as atualizações e novas práticas aplicadas no ServeRest e em outras APIs!
+
 ---
 
 
