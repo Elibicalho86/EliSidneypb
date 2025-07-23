@@ -38,6 +38,8 @@ Também tive contato com ferramentas e práticas de gestão de testes, como Jira
 - **Rotas/**
   - [🔗 Login e Usuários - Parte 1](https://www.youtube.com/watch?v=NNFEM741qw0)
   - [🔗 Login e Usuários - Parte 2](https://www.youtube.com/watch?v=RGbr76DwhVo)
+ - **Fluxo/**
+  - [🔗 Login - Usuários - Produtos - carrinhos - Parte 1](https://www.youtube.com/watch?v=QDy8ZcfStZ8)
 
 
 
