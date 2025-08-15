@@ -42,6 +42,7 @@ Também tive contato com ferramentas e práticas de gestão de testes, como Jira
   - [🔗 Login - Usuários - Produtos - carrinhos - Parte 1](https://www.youtube.com/watch?v=QDy8ZcfStZ8)
   - [🔗 Login - Usuários - Produtos - carrinhos - Parte 2](https://www.youtube.com/watch?v=HNZEo0Q1Psk)
 
+[🔗 Repositório Treinamento](https://github.com/Elibicalho86/Treinamento?tab=readme-ov-file)
 
 
 ### ▶️ Continuação...
